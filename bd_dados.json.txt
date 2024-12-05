@@ -1,0 +1,164 @@
+{
+  "autores": [
+    {
+      "idautor": 1,
+      "nome_autor": "Evelyn Aurora",
+      "telefone_autor": "(47) 95462-1098",
+      "email_autor": "evelyn.aurora2@gmail.com"
+    },
+    {
+      "idautor": 2,
+      "nome_autor": "Felipe Araujo",
+      "telefone_autor": "(47) 96541-2109",
+      "email_autor": "felipe.araujo8@gmail.com"
+    },
+    {
+      "idautor": 3,
+      "nome_autor": "Gisele Oliveira",
+      "telefone_autor": "(47) 97354-3210",
+      "email_autor": "gisoliveira4@gmail.com"
+    },
+    {
+      "idautor": 4,
+      "nome_autor": "David Guetta",
+      "telefone_autor": "(31) 99876-5432",
+      "email_autor": "david.guetta@gmail.com"
+    },
+    {
+      "idautor": 5,
+      "nome_autor": "an",
+      "telefone_autor": "88",
+      "email_autor": "j"
+    }
+  ],
+  "colecoes": [
+    {
+      "idcolecao": 1,
+      "nomecolecao": "Crônicas da Nebulosa",
+      "data": "2020-01-15"
+    },
+    {
+      "idcolecao": 2,
+      "nomecolecao": "Lendas do Reino Perdido",
+      "data": "2022-03-22"
+    },
+    {
+      "idcolecao": 3,
+      "nomecolecao": "Saga das Sombras",
+      "data": "2023-05-10"
+    },
+    {
+      "idcolecao": 4,
+      "nomecolecao": "Mistérios de Avalon",
+      "data": "2024-07-18"
+    }
+  ],
+  "editoras": [
+    {
+      "ideditora": 1,
+      "cnpj_editora": "56829301000112",
+      "nome_editora": "Editora Lumen",
+      "telefone_editora": "(47) 98765-4321",
+      "cep": "89030-013",
+      "rua": "Rua Blumenau",
+      "numero": "132"
+    },
+    {
+      "ideditora": 2,
+      "cnpj_editora": "88719283000124",
+      "nome_editora": "Garanti",
+      "telefone_editora": "(47) 91234-5678",
+      "cep": "89040-020",
+      "rua": "Rua das Nações",
+      "numero": "456"
+    },
+    {
+      "ideditora": 3,
+      "cnpj_editora": "19283890000199",
+      "nome_editora": "Editora Publique",
+      "telefone_editora": "(47) 93456-7890",
+      "cep": "89080-000",
+      "rua": "Rua Florianópolis",
+      "numero": "149"
+    },
+    {
+      "ideditora": 4,
+      "cnpj_editora": "45678901000111",
+      "nome_editora": "Livros Encantados",
+      "telefone_editora": "(47) 94567-8901",
+      "cep": "89819-010",
+      "rua": "Rua Carmen",
+      "numero": "101"
+    }
+  ],
+  "ilustradores": [
+    {
+      "_id": {
+        "$oid": "675202bd014bd7c92d8e759e"
+      },
+      "idilustrador": 1,
+      "nome_ilustrador": "Alice Costa",
+      "telefone_ilustrador": "(41) 96543-2109",
+      "email_ilustrador": "alice.costa@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "675202d0014bd7c92d8e75a0"
+      },
+      "idilustrador": 2,
+      "nome_ilustrador": "Guilherme Santos",
+      "telefone_ilustrador": "(47) 97654-3210",
+      "email_ilustrador": "guisantos343@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "675202dd014bd7c92d8e75a2"
+      },
+      "idilustrador": 3,
+      "nome_ilustrador": "Carolina Pereira",
+      "telefone_ilustrador": "(11) 98765-4321",
+      "email_ilustrador": "carolPereira112@gmail.com"
+    },
+    {
+      "_id": {
+        "$oid": "675202e4014bd7c92d8e75a4"
+      },
+      "idilustrador": 4,
+      "nome_ilustrador": "David Guetta",
+      "telefone_ilustrador": "(31) 99876-5432",
+      "email_ilustrador": "david.guetta@gmail.com"
+    }
+  ],
+  "historiasemquadrinhos": [
+    {
+      "idhistoria": 1,
+      "titulo": "A Liberdade",
+      "volume": 55,
+      "data_lancamento": "2023-03-15",
+      "idcolecao": 1,
+      "idautor": 1,
+      "idilustrador": 1,
+      "ideditora": 1
+    },
+    {
+      "idhistoria": 2,
+      "titulo": "A Jornada do Dragão de Fogo",
+      "volume": 56,
+      "data_lancamento": "2023-04-15",
+      "idcolecao": 1,
+      "idautor": 1,
+      "idilustrador": 1,
+      "ideditora": 1
+    },
+    {
+      "idhistoria": 3,
+      "titulo": "O Enigma das Fadas",
+      "volume": 14,
+      "data_lancamento": "2024-03-10",
+      "idcolecao": 2,
+      "idautor": 2,
+      "idilustrador": 2,
+      "ideditora": 2
+    }
+  ]
+}
