@@ -1,0 +1,1 @@
+# BancoDeDados_GerenciamentoEditora_MongoDB
