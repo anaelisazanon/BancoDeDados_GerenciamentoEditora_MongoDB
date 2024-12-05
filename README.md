@@ -9,12 +9,7 @@ Antes de iniciar a compilação e execução, certifique-se de que os seguintes 
 - IDE recomendada: NetBeans
  java -version
 
-### 2. **Maven:**
-Instale o Maven.
-Verifique a instalação com o comando:
-:vn -version
-
-### 3. **MongoDB:**
+### 2. **MongoDB:**
 Instale o MongoDB compass.
 Verifique a instalação com o comando:
 mongo --version
